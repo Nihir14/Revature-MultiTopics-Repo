@@ -1,0 +1,44 @@
+Show / Hide text on button click
+Toggle text visibility
+Change text using .text()
+Change HTML content using .html()
+Change CSS styles dynamically
+Add / Remove CSS class
+Toggle class on click
+Get input value and display
+Clear input field
+Change image on button click
+ 
+Click event example
+Double click event
+Mouse hover effect
+Mouse enter / leave
+Keyup event example
+Keydown event
+Focus & blur event
+Change event for dropdown
+Form submit event
+Prevent default form submission
+ 
+Append list items dynamically
+Prepend elements
+Remove elements
+Empty a div
+Clone elements
+Count number of elements
+Traverse parent elements
+Traverse child elements
+Find next / previous elements
+Dynamic table row creation
+ 
+Load text file using AJAX
+Load JSON data using AJAX
+AJAX GET request
+AJAX POST request
+Submit form using AJAX
+Real-time search using AJAX
+Load data without page refresh
+Display API data in table
+Error handling in AJAX
+Loading spinner using AJAX
+ 

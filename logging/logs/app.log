@@ -1,0 +1,7 @@
+2026-01-19 10:28:24 INFO  org.example.Log4jExample - This is INFO level log
+2026-01-19 10:28:24 WARN  org.example.Log4jExample - This is WARN level log
+2026-01-19 10:28:24 ERROR org.example.Log4jExample - This is ERROR level log
+2026-01-19 10:28:24 FATAL org.example.Log4jExample - This is FATAL level log
+2026-01-19 10:28:24 ERROR org.example.Log4jExample - Exception occurred
+java.lang.ArithmeticException: / by zero
+	at org.example.Log4jExample.main(Log4jExample.java:20) [classes/:?]
